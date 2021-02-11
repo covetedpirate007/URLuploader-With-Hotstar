@@ -2,16 +2,20 @@ class Translation(object):
 
     START_TEXT = """Hello,
 
-This is a Telegram URL Upload Bot!
+This is a Telegram URL Upload Bot cloned by @teamxprojects 
+Credits to @prgofficial 
 
 <b>Please send me any Direct download URL link, I can upload to telegram as File/Video</b>
 
 /help for more details..
 
-Support Group : @TroJanzSupport
+Bot Channel : @teamxprojects
+Support: @teamxsupportbot
+© @prgofficial
 """
 
-    HELP_USER = """Hai I'am a URL Uploader bot..
+
+    HELP_USER = """Hi I'm a URL Uploader bot..
     
 1. Send url (Link | New Name with Extension).
 2. Send Custom Thumbnail (Optional).
@@ -20,6 +24,16 @@ Support Group : @TroJanzSupport
    DFile  - Give File with Screenshots
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
+
+For specific type of links, Read the guides in Channel
+ \n<a href='https://t.me/teamxprojects'><b>👉 Join Channel </b></a>
+ 
+Uploading Porn or abusive usage will result in instant ban!
+
+For Movies or series, Join our request group @moviesonlydiscussion ❤️
+For TV/Web series join @SeRiesOnlYheRe
+
+-------
 
 Support Group : @TroJanzSupport
 """
@@ -47,7 +61,8 @@ URL | newfilename | username | password"""
 
     DEL_ETED_CUSTOM_THUMB_NAIL = "Custom thumbnail cleared succesfully."
 
-    CUSTOM_CAPTION_UL_FILE = " "
+    CUSTOM_CAPTION_UL_FILE = "@teamxprojects /n @moviesonlydiscussion /n @MoViezOnlYheRe"
+
 
     SLOW_URL_DECED = "Gosh that seems to be a very slow URL. Since you were screwing my home, I am in no mood to download this file. Meanwhile, why don't you try this:==> https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
 
