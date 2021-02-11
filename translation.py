@@ -35,7 +35,7 @@ For TV/Web series join @SeRiesOnlYheRe
 
 -------
 
-Support Group : @TroJanzSupport
+Support : @teamxsupportbot
 """
 
     FORMAT_SELECTION = """Select the desired format: <a href='{}'>file size might be approximate</a>
@@ -61,7 +61,9 @@ URL | newfilename | username | password"""
 
     DEL_ETED_CUSTOM_THUMB_NAIL = "Custom thumbnail cleared succesfully."
 
-    CUSTOM_CAPTION_UL_FILE = "@teamxprojects /n @moviesonlydiscussion /n @MoViezOnlYheRe"
+    CUSTOM_CAPTION_UL_FILE = "@teamxprojects
+    @moviesonlydiscussion
+ @MoViezOnlYheRe"
 
 
     SLOW_URL_DECED = "Gosh that seems to be a very slow URL. Since you were screwing my home, I am in no mood to download this file. Meanwhile, why don't you try this:==> https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
